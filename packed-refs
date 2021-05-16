@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+7c748296f752d0dc8f9d1b00e008b5de33d57683 refs/remotes/origin/master
+7d793443351ecbf3abd4151511a6ea64c21c5f5f refs/remotes/origin/rama-bd
+a33e6bd8ae7673a93bae4fbefd00794cd0e17d4c refs/remotes/origin/rama-horarios
+ac2b486fd759c9cf5ff9874ff27101d23a070038 refs/remotes/origin/rama-menu
